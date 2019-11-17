@@ -1,7 +1,7 @@
 package tmr.design.pattern.strategy;
 
-import tmr.design.pattern.strategy.movie.Movie;
 import org.joda.money.Money;
+import tmr.design.pattern.strategy.movie.Movie;
 
 import java.util.ArrayList;
 

@@ -6,7 +6,7 @@
     <packaging>pom</packaging>
 
     <groupId>tmr.design.pattern</groupId>
-    <artifactId>design-pattern</artifactId>
+    <artifactId>design-patterns</artifactId>
     <version>1.0.0</version>
 
     <modules>

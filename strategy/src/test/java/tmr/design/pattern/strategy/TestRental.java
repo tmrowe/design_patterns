@@ -1,9 +1,9 @@
 package tmr.design.pattern.strategy;
 
-import tmr.design.pattern.strategy.movie.Movie;
 import org.joda.money.Money;
 import org.junit.Assert;
 import org.junit.Test;
+import tmr.design.pattern.strategy.movie.Movie;
 
 import static org.hamcrest.Matchers.contains;
 import static org.mockito.Mockito.mock;
