@@ -1,0 +1,14 @@
+# Strategy Pattern
+This module demonstrates an implementation of the strategy pattern.
+
+## Prerequisites
+The following need to be installed on your system to run this project:
+
+- [Java Development Kit 12](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [Maven](https://maven.apache.org/download.cgi)
+
+## Quick Setup
+Steps to get the project running:
+
+- Run `mvn clean install`.
+- Run the main method in the Main class.
