@@ -9,6 +9,9 @@
     <artifactId>design-patterns</artifactId>
     <version>1.0.0</version>
 
+    <name>Design Patterns</name>
+    <description>This project demonstrates various design patterns.</description>
+
     <modules>
         <module>strategy</module>
     </modules>

@@ -14,6 +14,9 @@
     <artifactId>strategy</artifactId>
     <version>1.0.0</version>
 
+    <name>Strategy Pattern</name>
+    <description>This module demonstrates the strategy design pattern.</description>
+
     <dependencies>
         <dependency>
             <groupId>org.joda</groupId>
